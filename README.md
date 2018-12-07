@@ -1,6 +1,12 @@
 # Astar_algorithm_visualization
 최소 힙(min-heap)구조를 이용하는 A* 알고리즘(A star algorithm) 시각화
 
+
+**구현 영상**
+
+[![YoutubeVid](http://img.youtube.com/vi/cpPWYPNl0-E/0.jpg)](http://www.youtube.com/watch?v=cpPWYPNl0-E)
+
+
 ## 0. 그대로 실행 시 주의사항
 그대로 실행 시, 하위 디렉토리 ```\datas``` 에 시각화 내용에 대해 모두 저장하도록 되어 있습니다.
 수많은 파일을 생성하고 싶지 않다면, ```Astar.cs``` 에서 ```Astar```클래스의 ```visualize()``` 함수를 수정하세요.
